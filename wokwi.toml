@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\LEDCpwm_ADC_ServoM.bin'
+elf = 'build\LEDCpwm_ADC_ServoM.elf'
